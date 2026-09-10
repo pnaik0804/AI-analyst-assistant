@@ -54,3 +54,6 @@ month-over-month change. Average response time ~3-4 seconds per query."
 7. Ask a question like *"What were total sales by region?"* or
    *"Which category had the lowest profit?"*, review the generated SQL,
    click **Run query**, then **Generate AI Insight**.
+
+Datasets Query Results
+<img width="1912" height="918" alt="image" src="https://github.com/user-attachments/assets/56c59cce-046d-403c-8cca-939c901bbe4f" />
