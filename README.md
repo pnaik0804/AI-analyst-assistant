@@ -55,5 +55,7 @@ month-over-month change. Average response time ~3-4 seconds per query."
    *"Which category had the lowest profit?"*, review the generated SQL,
    click **Run query**, then **Generate AI Insight**.
 
-Datasets Query Results
+## Datasets Query Results
 <img width="1912" height="918" alt="image" src="https://github.com/user-attachments/assets/56c59cce-046d-403c-8cca-939c901bbe4f" />
+<img width="1917" height="915" alt="image" src="https://github.com/user-attachments/assets/aba03b15-9917-440c-84b9-195c47cc52e8" />
+<img width="1917" height="920" alt="image" src="https://github.com/user-attachments/assets/e7f03ae7-f19d-460b-a4d3-94e3e568ba12" />
