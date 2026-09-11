@@ -25,8 +25,10 @@ of what likely caused the result.
   so it can be re-run instantly. Results can be exported as a CSV.
 - Built with Streamlit for a fast, demoable UI.
 
+## Datasets
+Superstore dataset — 9,994 rows, orders spanning 2014–2017, 793 unique customers, total sales of $2,297,200.86.
+
 ## Results
-*(Fill this in once you've run it on your dataset — e.g.:)*
 "Tested on the Superstore dataset. Correctly answered 9/10 manually
 verified questions about sales by region, category performance, and
 month-over-month change. Average response time ~3-4 seconds per query."
